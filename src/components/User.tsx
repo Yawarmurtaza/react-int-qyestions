@@ -2,7 +2,7 @@ import { UserInfoModel } from "../UserInfoModel";
 import DisplayName from "./DisplayName";
 import PrintUserPhoto from "./PrintUserPhoto";
 
-const DisplayUserNameAndPhoto: React.FC<UserInfoModel> = (props: UserInfoModel) => {
+const User: React.FC<UserInfoModel> = (props: UserInfoModel) => {
   
     const userInfo = props;
     console.log(userInfo.name);
@@ -15,4 +15,4 @@ const DisplayUserNameAndPhoto: React.FC<UserInfoModel> = (props: UserInfoModel) 
     );
 }
 
-export default DisplayUserNameAndPhoto;
+export default User;
