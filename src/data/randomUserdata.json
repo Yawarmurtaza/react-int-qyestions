@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Idun",
+                "last": "Engdal"
+            },
+            "location": {
+                "street": {
+                    "number": 4947,
+                    "name": "Eirik Raudes vei"
+                },
+                "city": "Vik",
+                "state": "Oslo",
+                "country": "Norway",
+                "postcode": "4355",
+                "coordinates": {
+                    "latitude": "41.6740",
+                    "longitude": "70.1883"
+                },
+                "timezone": {
+                    "offset": "-12:00",
+                    "description": "Eniwetok, Kwajalein"
+                }
+            },
+            "email": "idun.engdal@example.com",
+            "login": {
+                "uuid": "624072e9-03ef-4e61-b919-bec7541ed0a1",
+                "username": "purplepeacock893",
+                "password": "alice",
+                "salt": "n385xeCK",
+                "md5": "90239e6481fab40ccba8227cbe451bbf",
+                "sha1": "73f573fd3077b658881fd613dbbbd0c11041fa2b",
+                "sha256": "2f98696fc0142aa12356d478bab1253594c03711347e8844fc651b94d23f7262"
+            },
+            "dob": {
+                "date": "1989-11-21T10:33:57.888Z",
+                "age": 33
+            },
+            "registered": {
+                "date": "2012-03-11T06:12:56.004Z",
+                "age": 10
+            },
+            "phone": "30980608",
+            "cell": "97426186",
+            "id": {
+                "name": "FN",
+                "value": "21118912672"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/31.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/31.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/31.jpg"
+            },
+            "nat": "NO"
+        }
+    ],
+    "info": {
+        "seed": "06c6183d046d4baa",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}

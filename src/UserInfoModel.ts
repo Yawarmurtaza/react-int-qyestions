@@ -1,5 +1,9 @@
 export class UserInfoModel {
-    name: string = "";
-    pictureUrl : string = "";
+    constructor(){
+        this.name = "";
+        this.pictureUrl = "";
+    }
+    name: string;
+    pictureUrl : string;
 
 }
